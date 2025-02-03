@@ -26,11 +26,12 @@ M5D_DATA
 ```
 
 ## Data Loader
-The synthetic scenes follow the data structure of [D-NeRF](https://github.com/albertpumarola/D-NeRF), and the real world scene follow [Nerfies](https://github.com/google/nerfies).
+The synthetic scenes follow the data structure of [D-NeRF](https://github.com/albertpumarola/D-NeRF), and the real world scenes follow [Nerfies](https://github.com/google/nerfies).
 
-The original dataloaders can be found in their repo. Both dataloaders are included in our code repo already.
+The original dataloaders can be found in their repos. Both dataloaders are included in our code repo already.
 
 ## Copyright
+All rights reserved. For non-commercial use only.
 ### Synthetic Scenes
 
 bball_motion, hwarrior_motion, and jjacks_motion are augmented from bouncing balls, hell warrior and jumping jacks from the [D-NeRF dataset](https://github.com/albertpumarola/D-NeRF).
