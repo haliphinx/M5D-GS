@@ -16,14 +16,17 @@
 The 3D-GSs are first transformed by the object level motion to form the overall motion. Then, each 3D-GS is modified by per-Gaussian deformation to capture local deformations
 
 
-## Visualization
+## Results
 ### Comparison with SOTAs
-<img src="res/main_vis.png" alt="Image1" style="zoom:25%;" />
+<img src="res/tab_res.png" alt="Image1" style="zoom:25%;" />
 <div align="center"><b><i>Figure.</i></b> <i>Visual comparison with previous SOTA methods.</i></div>
+
+<img src="res/main_vis.png" alt="Image1" style="zoom:25%;" />
+<div align="center"><b><i>Table.</i></b> <i>Quantitative comparison with previous SOTA methods.</i></div>
 
 ### Estimated Object Motion
 <img src="res/traj_fish.gif" alt="Image1" style="zoom:25%;" /> <img src="res/traj_robdog.gif" alt="Image2" style="zoom:25%;" /> <img src="res/traj_elephant.gif" alt="Image3" style="zoom:25%;" /> <img src="res/traj_jjacks.gif" alt="Image4" style="zoom:25%;" />
-<div align="center"><b><i>Figure.</i></b> <i>Visualization of the estimated object motions.</i></div>
+<div align="center"><b><i>Figure.</i></b> <i>Visualization of the estimated object motions. The white curves are the estimated trajectories, red spots are the location, and the rgb frames represent the orientations.</i></div>
 
 ## Dataset
 See [this page](/m5d_data) for details.
