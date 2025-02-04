@@ -24,8 +24,11 @@ The 3D-GSs are first transformed by the object level motion to form the overall 
 <img src="res/main_vis.png" alt="Image1" style="zoom:25%;" />
 <div align="center"><b><i>Figure.</i></b> <i>Visual comparison with previous SOTA methods.</i></div>
 <p></p><p></p>
+
+<div align="center">
 <img src="res/cat.gif" alt="Image1" style="zoom:25%;" />
 <img src="res/robot.gif" alt="Image1" style="zoom:25%;" />
+</div>
 
 
 ### Estimated Object Motion
