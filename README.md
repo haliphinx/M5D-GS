@@ -3,7 +3,7 @@
 
 
 ## Visualization
-<img src="res/traj_fish.gif" alt="Image1" style="zoom:25%;" /> <img src="res/traj_robdog.gif" alt="Image2" style="zoom:25%;" /> <img src="res/traj_elephant.gif" alt="Image3" style="zoom:25%;" /> <img src="res/traj_jjacks.gif" alt="Image4" style="zoom:25%;" />
+<img src="res/traj_fish.gif" alt="Image1" style="zoom:5%;" /> <img src="res/traj_robdog.gif" alt="Image2" style="zoom:5%;" /> <img src="res/traj_elephant.gif" alt="Image3" style="zoom:5%;" /> <img src="res/traj_jjacks.gif" alt="Image4" style="zoom:5%;" />
 <div align="center"><b><i>Figure.</i></b> <i>Visualization of the estimated object motions.</i></div>
 
 ## Update
