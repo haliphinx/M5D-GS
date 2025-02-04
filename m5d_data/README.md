@@ -1,6 +1,6 @@
 # M5D-DATASET
 
-![img](https://github.com/haliphinx/M5D-GS/tree/main/m5d_data/dataset.png)
+![img](./dataset.png)
 <!-- * **Figure**. Visualization of scene motion. Each scene is represented by a stack of 10 frames uniformly sampled over time. Greater overlap indicates smaller motion within the scene. (a) Scenes from the D-NeRF dataset, where the frames are mostly overlapping, indicating minimal motion. (b) Scenes with large motions added to the original scenes in (a). (c) Newly generated and real world scenes.* -->
 
 The dataset is accessable via [OneDrive](https://uottawa-my.sharepoint.com/personal/xhu008_uottawa_ca/_layouts/15/guestaccess.aspx?share=EZMfPYUrQZ1Brx_3GrtyOb4BboofQtR9bu9iRCn5-FrfAA&e=PYtXS9) and [GoogleDrive](https://drive.google.com/file/d/11crDkYYwD5uUjWxaXNCHwQBwLrHScKTO/view?usp=sharing).
