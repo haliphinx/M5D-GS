@@ -20,7 +20,7 @@ The 3D-GSs are first transformed by the object level motion to form the overall 
 ### Comparison with SOTAs
 <img src="res/tab_res.png" alt="Image1" style="zoom:25%;" />
 <div align="center"><b><i>Table.</i></b> <i>Quantitative comparison with previous SOTA methods.</i></div>
-
+<p></p><p></p>
 <img src="res/main_vis.png" alt="Image1" style="zoom:25%;" />
 <div align="center"><b><i>Figure.</i></b> <i>Visual comparison with previous SOTA methods.</i></div>
 
