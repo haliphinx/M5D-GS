@@ -39,7 +39,7 @@ All rights reserved. For non-commercial use only.
 
 bball_motion, hwarrior_motion, and jjacks_motion are augmented from bouncing balls, hell warrior and jumping jacks from the [D-NeRF dataset](https://github.com/albertpumarola/D-NeRF).
 
-The 3D models of the reset synthetic scenes are: 
+The 3D models of the rest synthetic scenes are: 
 [elephant](https://sketchfab.com/3d-models/african-elephant-facb060916534e7eae8e6a5a8056185f​), 
 [robot](https://www.cgtrader.com/free-3d-models/character/sci-fi-character/robot-l2), 
 [pokemon](https://www.cgtrader.com/free-3d-models/character/fantasy-character/bulbasaur-3d-model-4446c7a7-f786-434f-9b43-1082c5003f04), 
