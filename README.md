@@ -27,7 +27,7 @@ The 3D-GSs are first transformed by the object level motion to form the overall 
 
 <div align="center">
 <img src="res/cat.gif" alt="Image1" style="zoom:25%;" />
-<img src="res/robot.gif" alt="Image1" style="zoom:25%;" />
+<b><i>Figure.</i></b> <i>Comparison on the real world scene.</i></div>
 </div>
 
 
