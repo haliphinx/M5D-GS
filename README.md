@@ -1,5 +1,5 @@
 # M5D-GS
-[AAAI 2025] The official implementation for the "Motion Decoupled 3D Gaussian Splatting for Dynamic Object Representation"
+[AAAI 2025] The official implementation for the "Motion Decoupled 3D Gaussian Splatting for Dynamic Object Representation" [Paper](https://drive.google.com/file/d/1DZnkiIoHsxtnf_NKxC1tnn_vRnRu2D45/view?usp=drive_link)
 
 ## Update
 [2025.1.17] We are preparing the code and dataset. Please check back later.
