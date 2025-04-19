@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ### 2. Run Viewer on Trained Scenes
 a. prepare the dataset (see [this page](/m5d_data))
 
-b. prepare the trained model files (see [this page](/m5d_data) for our checkpoints.)
+b. prepare the trained model files (see [this page](/res) for our checkpoints.)
 
 c. run the script as 
 
