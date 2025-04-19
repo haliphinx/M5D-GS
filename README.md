@@ -34,7 +34,7 @@
 
 > c. run the script as 
 
->> `python viewer_gui.py -s /path/to/dateset/folder -m /path/to/checkpoint/folder --eval --gui`
+>> `python viewer_gui.py -s /path/to/dateset/folder -m /path/to/checkpoint/folder --eval --is_blender --gui`
 
 
 ## Pipeline
