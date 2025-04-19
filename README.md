@@ -12,11 +12,11 @@
 
 ### 1. Environment Install
 
-clone this repo
+a. clone this repo
 
 `git clone https://github.com/haliphinx/M5D-GS.git --recursive`
 
-install environment (same as [Deformable 3D-GS](https://github.com/ingra14m/Deformable-3D-Gaussians))
+b. install environment (same as [Deformable 3D-GS](https://github.com/ingra14m/Deformable-3D-Gaussians))
 
 ```
 conda create -n m5d_gs python=3.7
@@ -30,7 +30,9 @@ pip install -r requirements.txt
 ```
 
 ### 2. Run Viewer on Trained Scenes
-
+a. prepare the dataset (see [this page](/m5d_data))
+b. prepare the trained model files (see [this page](/m5d_data) for our checkpoints.)
+c. run the script as `python viewer_gui.py -s /path/to/dateset/folder -m /path/to/checkpoint/folder --eval --gui`
 
 
 ## Pipeline
