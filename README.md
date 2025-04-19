@@ -41,6 +41,8 @@
 ### 3. Training Script
 > coming soon
 
+## Dataset
+See [this page](/m5d_data) for details.
 
 ## Pipeline
 
@@ -67,13 +69,9 @@ The 3D-GSs are first transformed by the object level motion to form the overall 
 <b><i>Figure.</i></b> <i>Comparison on the real world scene.</i></div>
 </div>
 
-
 ### Estimated Object Motion
 <img src="res/traj_fish.gif" alt="Image1" style="zoom:25%;" /> <img src="res/traj_robdog.gif" alt="Image2" style="zoom:25%;" /> <img src="res/traj_elephant.gif" alt="Image3" style="zoom:25%;" /> <img src="res/traj_jjacks.gif" alt="Image4" style="zoom:25%;" />
 <div align="center"><b><i>Figure.</i></b> <i>Visualization of the estimated object motions. The white curves are the estimated trajectories, red spots are the location, and the rgb frames represent the orientations.</i></div>
-
-## Dataset
-See [this page](/m5d_data) for details.
 
 ## Acknowledgments
 We sincerely thank the authors of [3D-GS](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), [D-NeRF](https://www.albertpumarola.com/research/D-NeRF/index.html), [HyperNeRF](https://hypernerf.github.io/), [NeRF-DS](https://jokeryan.github.io/projects/nerf-ds/), [DeVRF](https://jia-wei-liu.github.io/DeVRF/),  and [D3D-GS]([https://jia-wei-liu.github.io/DeVRF/](https://drive.google.com/file/d/1DZnkiIoHsxtnf_NKxC1tnn_vRnRu2D45/view?usp=drive_link)), whose codes and datasets were used in our work.
