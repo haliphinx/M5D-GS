@@ -38,6 +38,9 @@
 
 >> <img src="res/viewer_exp.png" alt="Image1" style="zoom:0.5%;" />
 
+### 3. Training Script
+> coming soon
+
 
 ## Pipeline
 
