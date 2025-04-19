@@ -34,7 +34,7 @@
 
 > c. run the script as 
 
->> `python viewer_gui.py -s /path/to/dateset/folder -m /path/to/checkpoint/folder --eval --is_blender --gui`
+>> ```python viewer_gui.py -s /path/to/dateset/folder -m /path/to/checkpoint/folder --eval --is_blender --gui```
 
 >> <img src="res/viewer_exp.png" alt="Image1" style="zoom:0.5%;" />
 
