@@ -8,9 +8,29 @@
 
 [2025.1.17] We are preparing the code and dataset. Please check back later.
 
-## Environment Install
+## Run
+
+### Environment Install
+
 1. clone this repo
-'git clone https://github.com/haliphinx/M5D-GS.git --recursive'
+
+`git clone https://github.com/haliphinx/M5D-GS.git --recursive`
+
+2. install environment (same as [Deformable 3D-GS](https://github.com/ingra14m/Deformable-3D-Gaussians))
+
+```
+conda create -n m5d_gs python=3.7
+conda activate m5d_gs
+
+# install pytorch
+pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 --extra-index-url https://download.pytorch.org/whl/cu116
+
+# install dependencies
+pip install -r requirements.txt
+```
+
+### Run Viewer on Trained Scenes
+
 
 ## Pipeline
 
