@@ -12,31 +12,29 @@
 
 ### 1. Environment Install
 
-a. clone this repo
+> a. clone this repo
 
-`git clone https://github.com/haliphinx/M5D-GS.git --recursive`
+>> `git clone https://github.com/haliphinx/M5D-GS.git --recursive`
 
-b. install environment (same as [Deformable 3D-GS](https://github.com/ingra14m/Deformable-3D-Gaussians))
+> b. install environment (same as [Deformable 3D-GS](https://github.com/ingra14m/Deformable-3D-Gaussians))
 
-```
-conda create -n m5d_gs python=3.7
-conda activate m5d_gs
-
-# install pytorch
-pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 --extra-index-url https://download.pytorch.org/whl/cu116
-
-# install dependencies
-pip install -r requirements.txt
-```
+>> ```
+>> conda create -n m5d_gs python=3.7
+>> conda activate m5d_gs
+>> # install pytorch
+>> pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 --extra-index-url https://download.pytorch.org/whl/cu116
+>> # install dependencies
+>> pip install -r requirements.txt
+>> ```
 
 ### 2. Run Viewer on Trained Scenes
-a. prepare the dataset (see [this page](/m5d_data))
+> a. prepare the dataset (see [this page](/m5d_data))
 
-b. prepare the trained model files ([our checkpoints](https://uottawa-my.sharepoint.com/personal/xhu008_uottawa_ca/_layouts/15/guestaccess.aspx?share=El3O-dVaY_tDlEuCasqKotABh3SwRGu6h7j777dC2m66zw&e=hzpiHl))
+> b. prepare the trained model files ([our checkpoints](https://uottawa-my.sharepoint.com/personal/xhu008_uottawa_ca/_layouts/15/guestaccess.aspx?share=El3O-dVaY_tDlEuCasqKotABh3SwRGu6h7j777dC2m66zw&e=hzpiHl))
 
-c. run the script as 
+> c. run the script as 
 
-`python viewer_gui.py -s /path/to/dateset/folder -m /path/to/checkpoint/folder --eval --gui`
+>> `python viewer_gui.py -s /path/to/dateset/folder -m /path/to/checkpoint/folder --eval --gui`
 
 
 ## Pipeline
