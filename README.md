@@ -10,13 +10,13 @@
 
 ## Run
 
-### Environment Install
+### 1. Environment Install
 
-1. clone this repo
+clone this repo
 
 `git clone https://github.com/haliphinx/M5D-GS.git --recursive`
 
-2. install environment (same as [Deformable 3D-GS](https://github.com/ingra14m/Deformable-3D-Gaussians))
+install environment (same as [Deformable 3D-GS](https://github.com/ingra14m/Deformable-3D-Gaussians))
 
 ```
 conda create -n m5d_gs python=3.7
@@ -29,7 +29,8 @@ pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 --extra-index-url http
 pip install -r requirements.txt
 ```
 
-### Run Viewer on Trained Scenes
+### 2. Run Viewer on Trained Scenes
+
 
 
 ## Pipeline
@@ -65,5 +66,5 @@ The 3D-GSs are first transformed by the object level motion to form the overall 
 ## Dataset
 See [this page](/m5d_data) for details.
 
-## Code
-TBD
+## Acknowledgments
+We sincerely thank the authors of [3D-GS](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), [D-NeRF](https://www.albertpumarola.com/research/D-NeRF/index.html), [HyperNeRF](https://hypernerf.github.io/), [NeRF-DS](https://jokeryan.github.io/projects/nerf-ds/), [DeVRF](https://jia-wei-liu.github.io/DeVRF/),  and [D3D-GS]([https://jia-wei-liu.github.io/DeVRF/](https://drive.google.com/file/d/1DZnkiIoHsxtnf_NKxC1tnn_vRnRu2D45/view?usp=drive_link)), whose codes and datasets were used in our work.
