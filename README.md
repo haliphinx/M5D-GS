@@ -8,7 +8,9 @@
 
 [2025.1.17] We are preparing the code and dataset. Please check back later.
 
-
+## Environment Install
+1. clone this repo
+'git clone https://github.com/haliphinx/M5D-GS.git --recursive'
 
 ## Pipeline
 
