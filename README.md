@@ -2,7 +2,7 @@
 [AAAI 2025] The official implementation for the "Motion Decoupled 3D Gaussian Splatting for Dynamic Object Representation" [Paper](https://drive.google.com/file/d/1DZnkiIoHsxtnf_NKxC1tnn_vRnRu2D45/view?usp=drive_link)
 
 ## Update
-[2025.04.18] The code for viewing/evaluating trained scenes are available. The training script is under testing and will be uploaded soon.
+[2025.04.18] The code for viewing/evaluating trained scenes are available.
 
 [2025.02.03] The [dataset](/m5d_data) is available for download.
 
